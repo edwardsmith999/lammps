@@ -44,7 +44,7 @@ underscores.
 ----------
 
 Computes calculate one or more of four styles of quantities: global,
-per-atom, local, or per-atom.  A global quantity is one or more
+per-atom, local, or per-grid.  A global quantity is one or more
 system-wide values, e.g. the temperature of the system.  A per-atom
 quantity is one or more values per atom, e.g. the kinetic energy of
 each atom.  Per-atom values are set to 0.0 for atoms not in the
